@@ -1,0 +1,3 @@
+#FirstCode
+
+Writing in sample
